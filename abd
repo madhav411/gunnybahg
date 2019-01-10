@@ -1,0 +1,3 @@
+echo "Jenkins=Continous Integration Tool"
+echo "Tomacat=Application Server"
+echo "Sonarqube=Source Code Analyzer"
